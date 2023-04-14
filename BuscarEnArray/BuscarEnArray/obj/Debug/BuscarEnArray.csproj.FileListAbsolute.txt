@@ -1,0 +1,7 @@
+C:\Users\yeray.blanco.aldao\source\repos\BuscarEnArray\BuscarEnArray\bin\Debug\BuscarEnArray.exe.config
+C:\Users\yeray.blanco.aldao\source\repos\BuscarEnArray\BuscarEnArray\bin\Debug\BuscarEnArray.exe
+C:\Users\yeray.blanco.aldao\source\repos\BuscarEnArray\BuscarEnArray\bin\Debug\BuscarEnArray.pdb
+C:\Users\yeray.blanco.aldao\source\repos\BuscarEnArray\BuscarEnArray\obj\Debug\BuscarEnArray.csproj.AssemblyReference.cache
+C:\Users\yeray.blanco.aldao\source\repos\BuscarEnArray\BuscarEnArray\obj\Debug\BuscarEnArray.csproj.CoreCompileInputs.cache
+C:\Users\yeray.blanco.aldao\source\repos\BuscarEnArray\BuscarEnArray\obj\Debug\BuscarEnArray.exe
+C:\Users\yeray.blanco.aldao\source\repos\BuscarEnArray\BuscarEnArray\obj\Debug\BuscarEnArray.pdb
